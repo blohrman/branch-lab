@@ -58,3 +58,4 @@ Whew, okay. That was a lot of information, and it can get pretty complicated pre
 3. Open GitHub Desktop and navigate to the repository for this lab. You should see something that looks like this:
 <img width="958" alt="Screen Shot 2023-01-25 at 12 06 23" src="https://user-images.githubusercontent.com/54636027/214646423-7430bc0e-c922-4d8a-b590-9e7359f4d3d0.png">
 4. At the top, notice the dropdown that says `Current branch main`. Click this dropdown and you should see the following:
+<img width="375" alt="Screen Shot 2023-01-25 at 12 12 25" src="https://user-images.githubusercontent.com/54636027/214647605-c969ff3a-7241-4afa-b955-fd0a79e8105a.png">
