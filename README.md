@@ -10,7 +10,7 @@ Today you will learn about **branching**. Let's get started!
 
 ### `main` and `master`
 
-Within your previous repositories in RAIK 183H (last semester's class with Dr. Val), you may have noticed that, in GitHub Desktop, whenever you would commit it would say `Commit to master` or `Commit to main` at the bottom of the screen when you clicked the button to commit. This is the primary branch that nearly every repository has. This branch is the "source of truth" in a sense, and whatever the latest commit on `main` is contains the current tested, working, production code for whatever software contained in the repository.
+Within your previous repositories in RAIK 183H (last semester's class with Dr. Val), you may have noticed that, in GitHub Desktop, whenever you would commit it would say `Commit to master` or `Commit to main` at the bottom of the screen when you clicked the button to commit. This is the primary branch that nearly every repository has. From now on, I will refer to this branch as `main`, as that is the generally accepted term for it now. This branch is the "source of truth" in a sense, and whatever the latest commit on `main` is contains the current tested, working, production code for whatever software contained in the repository.
 
 As a visual, say `main` looks like this, where `a`, `b`, `c`, and `d` are all commits:
 
@@ -115,6 +115,6 @@ Once people have reviewed your code, the button that says `Merge pull request` w
 
 ## Wrap-Up
 
-Awesome, you've completed all the tasks that we had for you to do in today's lab. Tomorrow is when the first "feedback" submission for PacMan occurrs, and you'll be expected to create a pull request in your repository from `dev` into `main` following these exact same steps. This will let us know that you've officially "submitted" your code. Note that **ONLY COMMITS MADE BEFORE THE DEADLINE WILL BE REVIEWED!** We can see commit times, and pushing late **will** cause any commits you forgot to push before the deadline to not be counted! **PLEASE MAKE SURE YOU COMMIT AND PUSH BEFORE THE DEADLINES THIS SEMESTER!**
+Awesome, you've completed all the tasks that we had for you to do in today's lab. Tomorrow is when the first "feedback" submission for PacMan occurrs. The pull request has already been created for you, but now you have an understanding of what's going on! Note that **ONLY COMMITS MADE BEFORE THE DEADLINE WILL BE REVIEWED!** We can see commit times, and pushing late **will** cause any commits you forgot to push before the deadline to not be counted! **PLEASE MAKE SURE YOU COMMIT AND PUSH BEFORE THE DEADLINES THIS SEMESTER!**
 
 Thanks for coming into lab today! Have an awesome day and weekend!
